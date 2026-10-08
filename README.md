@@ -1,2 +1,4 @@
 # WaNoori
-this is  a demo for wanoori
+this is  a demo for wanoorils
+Author - waqar abbbas 
+
